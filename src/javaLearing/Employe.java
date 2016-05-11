@@ -5,6 +5,7 @@ public class Employe {
 
 	public Employe(int customerid) {
 		customerid= this.customerid;
+		System.out.println("An sys added");
 	}
 
 	public int getId() {
