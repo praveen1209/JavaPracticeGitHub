@@ -7,6 +7,7 @@ public class Employe {
 		customerid= this.customerid;
 		System.out.println("An sys added");
 		System.out.println("Secong change");
+		System.out.println("Third time adding");
 	}
 
 	public int getId() {
