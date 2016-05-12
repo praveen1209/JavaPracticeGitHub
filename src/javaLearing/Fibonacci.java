@@ -24,13 +24,11 @@ public class Fibonacci {
 				System.out.println("1st Line");
 				System.out.println("2nd Line");
 				System.out.println("3rd Line");
-<<<<<<< HEAD
+
 				System.out.println("4rd Line");
 				
 				System.out.println("How this possible");
-=======
-				System.out.println("4rd Line");
->>>>>>> branch 'master' of https://github.com/praveen1209/JavaPracticeGitHub.git
+			System.out.println("4rd Line");
 			}
 		}
 	}
