@@ -17,6 +17,7 @@ public class ArraysDemo {
 	//result = result + nums[i];
 //System.out.println("Average is " + result / 6);
 		while(true){
+			System.out.println("Praveen");
 		//int n=2001;
 		BufferedReader br= new BufferedReader(new InputStreamReader(System.in));
 		System.out.println(" Enter the number");
