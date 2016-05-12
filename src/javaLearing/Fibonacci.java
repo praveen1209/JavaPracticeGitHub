@@ -12,6 +12,7 @@ public class Fibonacci {
 				System.out.println(k +" ");
 				a=b;
 				b=k;
+				//added comment
 			}
 		}
 	}
