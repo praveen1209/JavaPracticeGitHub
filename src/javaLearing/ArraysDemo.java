@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class ArraysDemo {
-
+// this is comment
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		//int month_days[] = { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
 		//System.out.println("April has " + month_days[3] + " days.");
