@@ -13,12 +13,18 @@ public class Fibonacci {
 				a=b;
 				b=k;
 				//added comment
+
 				System.out.println("Praveen Line added");
 				System.out.println("Praveen Line added2");
 				System.out.println("Praveen Line added3");
 				System.out.println("Praveen Line added4");
 				System.out.println("New Line");
-
+				
+				
+				System.out.println("1st Line");
+				System.out.println("2nd Line");
+				System.out.println("3rd Line");
+				System.out.println("4rd Line");
 			}
 		}
 	}
