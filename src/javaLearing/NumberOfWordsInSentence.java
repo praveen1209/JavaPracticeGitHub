@@ -4,7 +4,7 @@ package src.javaLearing;
 public class NumberOfWordsInSentence {
 	
 
-	
+	String ba;
 		String Word="";
 		int count=0;
 		int countmax=0;
